@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/IamAagamShah/Midterm.git"
   },
   "keywords": [
     "NodeJS",
@@ -55,7 +55,7 @@
   "author": "AagamShah",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/IamAagamShah/Midterm.git"
   },
   "homepage": ""
 }
